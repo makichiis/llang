@@ -4,7 +4,8 @@ info.txt
 empty.c 
 test.c 
 
-err.l 
+err.l
+glwindow.l
 
 lcc 
-test 
+test
